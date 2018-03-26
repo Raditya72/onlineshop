@@ -24,7 +24,6 @@
 
 						<div class="col-md-8">
 							<p>{{$product->description}}</p>
-							<p>Test</p>
 						</div>
 					</div>
 
